@@ -108,7 +108,7 @@ elif opcion == "EJERCICIO3":
 elif opcion == "EJERCICIO4":
     st.title("Ejercicio °4")
     st.write("Aquí validaremos un presupuesto aplicando POO")
-    st.title("Clase Actividad Financiera")
+    st.header("Clase Actividad Financiera")
 
     # Inputs para crear una actividad
     nombre = st.text_input("Nombre de la actividad")
@@ -129,6 +129,7 @@ elif opcion == "EJERCICIO4":
         # Mostrar resumen en tabla
         st.subheader("Resumen de la actividad")
         st.dataframe([info])  # Convertimos el dict en lista para mostrarlo como tabla
+
 
 
 
