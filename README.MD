@@ -22,14 +22,15 @@
 
 
 * **Enlaces**
-  • GitHub:
-  • Aplicación en Streamlit Cloud:
+  • GitHub: https://github.com/manuelfloreschero/Proyecto-Python
+  • Aplicación en Streamlit Cloud: https://proyecto-manuelflores.streamlit.app/
 
 
 
 * **Autor**
   • Flores Chero Luiguin Manuel
   • 2026
+
 
 
 
